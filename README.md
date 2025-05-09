@@ -69,7 +69,7 @@ Open and install <b>MySQL Server</b>. Then, within the configuration wizard set 
 <br />
 
 <p>
-<img src="[ezgif-423838220ed28c](https://github.com/user-attachments/assets/ce589ae8-3d98-491e-bca5-2279af3b02cd)" height="80%" width="80%" alt="Installing MySQL and configuring it"/>
+<img src="https://i.imgur.com/dPSQ7X2.gif" height="80%" width="80%" alt="Configuring IIS"/>
 </p>
 <p>
 Open <b>IIS Management Console in admin mode</b>. Locate the PHP manager and click on "Register new PHP version". Locate the same directory where you previously extracted the PHP files and click on the "php-cgi" executable. Reload IIS by going to the home page and under Manage Server on the right side, clicking restart or stop and then start. Ensure that it is working by going in a browser and typing in <b>localhost</b> (should show an default windows page).
