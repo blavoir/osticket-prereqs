@@ -112,7 +112,7 @@ Click Continue on the website and fill all of the information in the blank field
 
 <h2>Congrats! You installed osTicket!</h2>
 <p>
-<img src="hhttps://i.imgur.com/0AWD9cC.png" height="80%" width="80%" alt="Finished installing osTicket"/>
+<img src="https://i.imgur.com/0AWD9cC.png" height="80%" width="80%" alt="Finished installing osTicket"/>
 </p>
 <p>
 This page should show pop up after the installation is completed. At the bottom, there should be useful links including the end user support page and the staff control panel. Those links are how your customers and your staff will be using to log in and interact with osTicket. osTicket is almost ready for configure however, there is one more last step.
