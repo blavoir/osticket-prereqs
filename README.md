@@ -98,7 +98,7 @@ Within the IIS console, on the left side, go to <b>sites -> Default web site -> 
 <img src="https://i.imgur.com/XmrAW8E.gif" height="80%" width="80%" alt="Editing config file"/>
 </p>
 <p>
-Nagivate to the osTicket directory. Then, nagivate to /include and find the osTicket-sampleconfig.php. Rename it to ost-config.php. Right click go to properties -> Security -> Advanced -> Disable inheritance and remove all permissions. Assign new permissions and allow everyone full access temporarily.
+Nagivate to the osTicket directory. Then, <b>nagivate to /include and find the osTicket-sampleconfig.php. Rename it to ost-config.php.</b> Right click go to properties -> Security -> Advanced -> Disable inheritance and remove all permissions. Assign new permissions and allow everyone full access temporarily.
 </p>
 <br />
 
@@ -106,7 +106,7 @@ Nagivate to the osTicket directory. Then, nagivate to /include and find the osTi
 <img src="https://i.imgur.com/aMeQlGR.gif" height="80%" width="80%" alt="Installing HeidiSQL"/>
 </p>
 <p>
-Click Continue on the website and fill all of the information in the blank fields except the category Database settings. Finally, install HeidiSQL and then launch it. Click new on the bottom left, log into the session with the same account credentials you used when you installed MySQL. Create a new databse and name it "osTicket" case sensitive and save. Now, fill in the database settings with the name osTicket, and your account credentials. Then, click install now!
+Click Continue on the website and fill all of the information in the blank fields except the category Database settings. Finally, <b>install HeidiSQL and then launch it.</b> Click new on the bottom left, log into the session with the same account credentials you used when you installed MySQL. <b>Create a new databse and name it "osTicket" case sensitive and save.</b> Now, fill in the database settings with the name osTicket, and your account credentials. Then, <b>click install now!</b>
 </p>
 <br />
 
@@ -115,7 +115,7 @@ Click Continue on the website and fill all of the information in the blank field
 <img src="https://i.imgur.com/0AWD9cC.png" height="80%" width="80%" alt="Finished installing osTicket"/>
 </p>
 <p>
-This page should show pop up after the installation is completed. At the bottom, there should be useful links including the end user support page and the staff control panel. Those links are how your customers and your staff will be using to log in and interact with osTicket. osTicket is almost ready for configure however, there is one more last step.
+This page should show pop up after <b>the installation is completed</b>. At the bottom, there should be useful links including the end user support page and the staff control panel. Those links are how your customers and your staff will be using to log in and interact with osTicket. osTicket is almost ready for configure however, <b>there is one more last step</b>.
 </p>
 <br />
 
@@ -123,6 +123,8 @@ This page should show pop up after the installation is completed. At the bottom,
 <img src="https://i.imgur.com/zlOvEoA.gif" height="80%" width="80%" alt="Cleanup"/>
 </p>
 <p>
-Before configuring, you need to nagivate back to the osTicket directory and delete the setup folder. Then, nagivate back to the include folder and set the permissions within the ost-config.php file to read only. After that, you are ready to start configuring osTicket.
+Before configuring, you need to nagivate back to the osTicket directory and <b>delete the setup folder. Then, navigate back to the include folder and set the permissions within the ost-config.php file to read only.</b> After that, you are ready to start configuring osTicket.
 </p>
 <br />
+
+[Start Configuring](https://github.com/blavoir/post-install-config)
