@@ -123,7 +123,7 @@ This page should show pop up after <b>the installation is completed</b>. At the 
 <img src="https://i.imgur.com/zlOvEoA.gif" height="80%" width="80%" alt="Cleanup"/>
 </p>
 <p>
-Before configuring, you need to nagivate back to the osTicket directory and <b>delete the setup folder. Then, navigate back to the include folder and set the permissions within the ost-config.php file to read only.</b> After that, you are ready to start configuring osTicket.
+Before configuring, you need to navigate back to the osTicket directory and <b>delete the setup folder. Then, navigate back to the include folder and set the permissions within the ost-config.php file to read only.</b> After that, you are ready to start configuring osTicket.
 </p>
 <br />
 
