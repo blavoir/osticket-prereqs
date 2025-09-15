@@ -11,34 +11,24 @@ This walkthrough outlines the prerequisites and installation of the open-source 
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/JIzKqU4gqOI)
 
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
 <h3>Full Package</h3>
 
 - [Download Complete Package](https://drive.google.com/file/d/1x-o6fiYYPW-pw7Nm2LWCijQ1Odys7FR9/view?usp=drive_link)</b>
-(includes all files bundled together for the demonstration)
+(includes all files, may be outdated)
 
 <h3>Download Individual Components</h3>
 
 - [osTicket](https://github.com/osTicket/osTicket/releases/tag/v1.18.2)
-
 - [PHP (includes Visual C++ installer on the site)](https://www.php.net/downloads.php)
 - [PHP Manager for IIS](https://www.phpmanager.xyz/)
 - [Rewrite Module for IIS](https://www.iis.net/downloads/microsoft/url-rewrite)
 - [MySQL](https://dev.mysql.com/downloads/installer/)
 - [HeidiSQL](https://www.heidisql.com/download.php)
 
-<b>Disclaimer:</b> I am providing an zip file for easy convenience. Please do note that software generally will need to be updated whenever bugs, security vulnerabilities or patches need to be applied so download links for the individual components are also provided. 
+> Disclaimer: I am providing an zip file for easy convenience. Please do note that software generally will need to be updated whenever bugs, security vulnerabilities or patches need to be applied so download links for the individual components are also provided. 
 
 <h2>Installation Steps</h2>
 
