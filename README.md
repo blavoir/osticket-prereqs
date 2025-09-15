@@ -4,8 +4,10 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This walkthrough outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+### Objective
+
+This project is the first part of a 3-part mini series from where we will be installing osTicket on a barebones Windows 10 virtual machine.
 
 <h2>Video Demonstration</h2>
 
@@ -18,7 +20,6 @@ This walkthrough outlines the prerequisites and installation of the open-source 
 
 - [Download Complete Package](https://drive.google.com/file/d/1x-o6fiYYPW-pw7Nm2LWCijQ1Odys7FR9/view?usp=drive_link)</b>
 (includes all files, may be outdated)
-
 <h3>Download Individual Components</h3>
 
 - [osTicket](https://github.com/osTicket/osTicket/releases/tag/v1.18.2)
